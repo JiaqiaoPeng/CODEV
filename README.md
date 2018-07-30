@@ -1,26 +1,16 @@
- Code Linter
+ CodeV
 ======================================
 
-## 使用前提
-目前软件依赖node.js, npm以及standard包
+KTH Royal Institute of Technology, Sweden
+ME2073 VT18-1 Business Development Lab of Entrepreneurship Engineers
 
-* 安装node
-https://nodejs.org/en/download/
+This is our final project, an assistant software based on JavaScript framework ***Electron***. CODEV can visualize the logic structure and inner relationship of source code, saving programmers’ time in code reading and understanding. It will be quite efficient for programmer to catch the key logic without additional knowledge.
 
-* 安装js linter
-```bash
-$ npm install standard --global
-```
+Here is the final presentation https://drive.google.com/open?id=1TNtYz215ECCGbh6xzfjJuBRbkriUz1l6 and the introduction video https://youtu.be/I5zTvsmHa5Q
 
-
-## 使用方法
-
-1. 选择需要整理的文件夹(非递归)
-
-2. 选择输出文件夹
-
-3. 点Standardize the code
-
-## 注意事项
-
-**沙盒模式已经关闭,而且没有采取文件保护手段,所以目标文件夹的文件安全并不能保障.**
+Acknowledgments: 
+https://github.com/KakiGit Chief Developer
+https://github.com/hj3306 Developer
+https://github.com/catvicky BD
+https://github.com/housenever Product Manager
+Sihan Marketing
