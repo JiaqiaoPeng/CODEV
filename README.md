@@ -11,8 +11,8 @@ This is our final project, an assistant software based on JavaScript framework *
 Here is the final presentation https://drive.google.com/open?id=1TNtYz215ECCGbh6xzfjJuBRbkriUz1l6 and the introduction video https://youtu.be/I5zTvsmHa5Q
 
 Acknowledgments:   
-https://github.com/KakiGit Chief Developer   
-https://github.com/hj3306 Developer    
-https://github.com/catvicky BD    
-https://github.com/housenever Product Manager    
-Sihan Marketing
+[Li Jiaqi.](https://github.com/KakiGit) Chief Developer   
+[Jiang Huinan.](https://github.com/hj3306) Developer    
+[Xu Cuiwei.](https://github.com/catvicky) BD    
+[Hong Yumin.](https://github.com/housenever) Product Manager    
+[Yuan Sihan.](https://github.com/sihanyuan) Marketing
